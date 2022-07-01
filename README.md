@@ -6,4 +6,4 @@ Used under Mozilla Lincense / 在Mozilla许可证下使用
 
 The upload summary is in 1.cpp at the root of each folder. / 上传概要在每个文件夹根目录下的1.cpp中。
 
-All non-code content is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. / 所有非代码内容使用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)许可证进行许可。
+All non-code content is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. / 所有非代码内容使用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可证进行许可。
