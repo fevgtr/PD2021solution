@@ -8,5 +8,12 @@ All non-code content is licensed under the [CC BY-NC-SA 4.0](https://creativecom
 
 The upload summary is in 1.md or 1.html at the root of each folder. / 上传概要在每个文件夹根目录下的1.md或1.html中。
 
+[数学](https://fevgtr.github.io/PD2021solution/数学/1.html)
 
 [历史](https://fevgtr.github.io/PD2021solution/%E5%8E%86%E5%8F%B2/1.html)
+
+[地理](https://fevgtr.github.io/PD2021solution/地理/1.html)
+
+[生物](https://fevgtr.github.io/PD2021solution/生物/1.html)
+
+[道法](https://fevgtr.github.io/PD2021solution/道法/1.html)
